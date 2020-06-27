@@ -1,0 +1,1 @@
+# 7d-django-azure
